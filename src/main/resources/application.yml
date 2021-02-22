@@ -1,0 +1,5 @@
+
+mongodb:
+  host: host.docker.internal
+  port: 27017
+  database-name: myNewDb
